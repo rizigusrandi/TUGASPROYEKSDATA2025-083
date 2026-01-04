@@ -40,33 +40,12 @@ void tampilkanHeader(const char* judul) {
     cout << "---------------------------------------------------------------------------\n";
 }
 
-// Export KTP ke file dengan format visual
+// Export KTP ke file dengan format visual (fungsi tambahan)
 void exportKTPToFile() {
-    ofstream file("KTP.txt");
-    if (!file.is_open()) {
-        cout << "[!] Gagal membuat file KTP.txt\n";
-        return;
+    if (authSystem != NULL) {
+        authSystem->exportKTPToFile("KTP_Export.txt");
+        pauseScreen();
     }
-    
-    for (int i = 0; i < jumlahKTP; i++) {
-        file << "+-----------------------------------------------------------------------+\n";
-        file << "|                     REPUBLIK INDONESIA                                |\n";
-        file << "|                     KARTU TANDA PENDUDUK                              |\n";
-        file << "|-----------------------------------------------------------------------|\n";
-        file << "| NIK               : " << left << setw(49) << dataKTP[i].NIK << "|\n";
-        file << "| Nama              : " << setw(49) << dataKTP[i].Nama << "|\n";
-        file << "| Tempat/Tgl Lahir  : " << setw(49) << (dataKTP[i].TempatLahir + ", " + dataKTP[i].TanggalLahir) << "|\n";
-        file << "| Jenis Kelamin     : " << setw(49) << dataKTP[i].JenisKelamin << "|\n";
-        file << "| Alamat            : " << setw(49) << dataKTP[i].Alamat << "|\n";
-        file << "| Agama             : " << setw(49) << dataKTP[i].Agama << "|\n";
-        file << "| Status Perkawinan : " << setw(49) << dataKTP[i].StatusPerkawinan << "|\n";
-        file << "| Pekerjaan         : " << setw(49) << dataKTP[i].Pekerjaan << "|\n";
-        file << "| Kewarganegaraan   : " << setw(49) << dataKTP[i].Kewarganegaraan << "|\n";
-        file << "+-----------------------------------------------------------------------+\n\n";
-    }
-    
-    file.close();
-    cout << "\n[?] Data KTP berhasil diekspor ke KTP.txt\n";
 }
 
 // Fungsi untuk build AVL Tree dari katalog
@@ -240,7 +219,7 @@ void tampilkanKatalogDenganKeranjang(TransaksiSystem* transaksi, string kategori
     }
 }
 
-// ============== MENU TRANSAKSI (UPDATED) ==============
+// ============== MENU TRANSAKSI ==============
 void menuTransaksi() {
     // Cek autentikasi
     if (!authSystem->checkLogin()) {
@@ -469,15 +448,20 @@ void menuAdmin() {
             case 1: {
                 system("cls");
                 tampilkanHeader("DATA KTP PENGGUNA");
-                for (int i = 0; i < jumlahKTP; i++) {
+                
+                KTP* data = authSystem->getDataKTP();
+                int jumlah = authSystem->getJumlahKTP();
+                
+                for (int i = 0; i < jumlah; i++) {
                     cout << "\n+-----------------------------------------------------------+\n";
                     cout << "| KTP #" << (i+1) << "                                                  |\n";
                     cout << "|-----------------------------------------------------------|\n";
-                    cout << "| NIK    : " << left << setw(46) << dataKTP[i].NIK << "|\n";
-                    cout << "| Nama   : " << setw(46) << dataKTP[i].Nama << "|\n";
-                    cout << "| Alamat : " << setw(46) << dataKTP[i].Alamat << "|\n";
+                    cout << "| NIK    : " << left << setw(46) << data[i].NIK << "|\n";
+                    cout << "| Nama   : " << setw(46) << data[i].Nama << "|\n";
+                    cout << "| Alamat : " << setw(46) << data[i].Alamat << "|\n";
                     cout << "+-----------------------------------------------------------+\n";
                 }
+                cout << "\n[i] Total Data KTP: " << jumlah << "\n";
                 pauseScreen();
                 break;
             }
@@ -485,7 +469,6 @@ void menuAdmin() {
                 system("cls");
                 tampilkanHeader("EXPORT DATA KTP");
                 exportKTPToFile();
-                pauseScreen();
                 break;
             }
             case 3: {
@@ -521,7 +504,7 @@ void menuAdmin() {
                         
                         laporan.tambahTransaksi(nama, p->ID, p->Nama, ukuran, jumlah, total, profit, timestamp);
                         
-                        cout << "\n[?] Transaksi berhasil diproses!\n";
+                        cout << "\n[v] Transaksi berhasil diproses!\n";
                         cout << "Pembeli: " << nama << "\n";
                         cout << "Produk: " << p->Nama << "\n";
                         cout << "Ukuran: " << ukuran << "\n";
@@ -564,7 +547,7 @@ void menuAdmin() {
                         
                         if (stackPembatalan.pop(id, jumlah, nama, ukuran)) {
                             katalog.kembalikanStok(id, jumlah);
-                            cout << "\n[?] Pembatalan disetujui. Stok dikembalikan.\n";
+                            cout << "\n[v] Pembatalan disetujui. Stok dikembalikan.\n";
                         }
                     }
                 }
@@ -621,7 +604,7 @@ void menuAdmin() {
 
 // Fungsi inisialisasi sistem
 void initSistem() {
-    // Load data KTP
+    // Load data KTP default
     initKTPData(dataKTP, jumlahKTP);
     
     // Load katalog produk
@@ -630,15 +613,12 @@ void initSistem() {
     // Build AVL Tree
     buildAVLTree();
     
-    // Inisialisasi Auth System
+    // Inisialisasi Auth System (akan AUTO-LOAD dari file)
     authSystem = new AuthSystem(dataKTP, jumlahKTP);
 }
 
 // Fungsi cleanup
 void cleanupSistem() {
-    if (dataKTP != NULL) {
-        delete[] dataKTP;
-    }
     if (authSystem != NULL) {
         delete authSystem;
     }
