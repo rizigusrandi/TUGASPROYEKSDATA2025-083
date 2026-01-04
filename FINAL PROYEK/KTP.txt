@@ -1,0 +1,300 @@
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374010101950001                                 ¦
+¦ Nama              : Budi Santoso                                     ¦
+¦ Tempat/Tgl Lahir  : Jakarta, 01-01-1995                              ¦
+¦ Jenis Kelamin     : Laki-laki                                        ¦
+¦ Alamat            : Jl. Merdeka No. 10 RT 001/RW 005                 ¦
+¦ Agama             : Islam                                            ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Karyawan Swasta                                  ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374020202960002                                 ¦
+¦ Nama              : Siti Nurhaliza                                   ¦
+¦ Tempat/Tgl Lahir  : Bandung, 02-02-1996                              ¦
+¦ Jenis Kelamin     : Perempuan                                        ¦
+¦ Alamat            : Jl. Sudirman No. 25 RT 002/RW 003                ¦
+¦ Agama             : Islam                                            ¦
+¦ Status Perkawinan : Kawin                                            ¦
+¦ Pekerjaan         : Wiraswasta                                       ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374030303970003                                 ¦
+¦ Nama              : Ahmad Rizki                                      ¦
+¦ Tempat/Tgl Lahir  : Semarang, 03-03-1997                             ¦
+¦ Jenis Kelamin     : Laki-laki                                        ¦
+¦ Alamat            : Jl. Gatot Subroto No. 15 RT 003/RW 004           ¦
+¦ Agama             : Islam                                            ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Mahasiswa                                        ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374040404980004                                 ¦
+¦ Nama              : Dewi Lestari                                     ¦
+¦ Tempat/Tgl Lahir  : Surabaya, 04-04-1998                             ¦
+¦ Jenis Kelamin     : Perempuan                                        ¦
+¦ Alamat            : Jl. Ahmad Yani No. 30 RT 004/RW 002              ¦
+¦ Agama             : Kristen                                          ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Pegawai Negeri                                   ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374050505990005                                 ¦
+¦ Nama              : Eko Prasetyo                                     ¦
+¦ Tempat/Tgl Lahir  : Yogyakarta, 05-05-1999                           ¦
+¦ Jenis Kelamin     : Laki-laki                                        ¦
+¦ Alamat            : Jl. Diponegoro No. 45 RT 005/RW 006              ¦
+¦ Agama             : Katolik                                          ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Desainer                                         ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374060606000006                                 ¦
+¦ Nama              : Fitri Handayani                                  ¦
+¦ Tempat/Tgl Lahir  : Medan, 06-06-2000                                ¦
+¦ Jenis Kelamin     : Perempuan                                        ¦
+¦ Alamat            : Jl. Pahlawan No. 20 RT 006/RW 001                ¦
+¦ Agama             : Islam                                            ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Guru                                             ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374070707010007                                 ¦
+¦ Nama              : Gilang Ramadhan                                  ¦
+¦ Tempat/Tgl Lahir  : Malang, 07-07-2001                               ¦
+¦ Jenis Kelamin     : Laki-laki                                        ¦
+¦ Alamat            : Jl. Veteran No. 35 RT 007/RW 008                 ¦
+¦ Agama             : Islam                                            ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Programmer                                       ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374080808020008                                 ¦
+¦ Nama              : Hana Kartika                                     ¦
+¦ Tempat/Tgl Lahir  : Palembang, 08-08-2002                            ¦
+¦ Jenis Kelamin     : Perempuan                                        ¦
+¦ Alamat            : Jl. Pemuda No. 50 RT 008/RW 007                  ¦
+¦ Agama             : Budha                                            ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Marketing                                        ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374090909950009                                 ¦
+¦ Nama              : Irfan Hakim                                      ¦
+¦ Tempat/Tgl Lahir  : Bogor, 09-09-1995                                ¦
+¦ Jenis Kelamin     : Laki-laki                                        ¦
+¦ Alamat            : Jl. Kenangan No. 12 RT 009/RW 005                ¦
+¦ Agama             : Islam                                            ¦
+¦ Status Perkawinan : Kawin                                            ¦
+¦ Pekerjaan         : Arsitek                                          ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374101010960010                                 ¦
+¦ Nama              : Jasmine Putri                                    ¦
+¦ Tempat/Tgl Lahir  : Bekasi, 10-10-1996                               ¦
+¦ Jenis Kelamin     : Perempuan                                        ¦
+¦ Alamat            : Jl. Harmoni No. 22 RT 010/RW 003                 ¦
+¦ Agama             : Kristen                                          ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Dokter                                           ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374111111970011                                 ¦
+¦ Nama              : Kevin Ananda                                     ¦
+¦ Tempat/Tgl Lahir  : Tangerang, 11-11-1997                            ¦
+¦ Jenis Kelamin     : Laki-laki                                        ¦
+¦ Alamat            : Jl. Cendana No. 8 RT 011/RW 009                  ¦
+¦ Agama             : Katolik                                          ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Pengacara                                        ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374121212980012                                 ¦
+¦ Nama              : Linda Wijaya                                     ¦
+¦ Tempat/Tgl Lahir  : Depok, 12-12-1998                                ¦
+¦ Jenis Kelamin     : Perempuan                                        ¦
+¦ Alamat            : Jl. Melati No. 18 RT 012/RW 002                  ¦
+¦ Agama             : Islam                                            ¦
+¦ Status Perkawinan : Kawin                                            ¦
+¦ Pekerjaan         : Akuntan                                          ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374010101990013                                 ¦
+¦ Nama              : Mario Teguh                                      ¦
+¦ Tempat/Tgl Lahir  : Jakarta, 13-01-1999                              ¦
+¦ Jenis Kelamin     : Laki-laki                                        ¦
+¦ Alamat            : Jl. Mawar No. 40 RT 013/RW 004                   ¦
+¦ Agama             : Kristen                                          ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Konsultan                                        ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374020202000014                                 ¦
+¦ Nama              : Nina Septiani                                    ¦
+¦ Tempat/Tgl Lahir  : Bandung, 14-02-2000                              ¦
+¦ Jenis Kelamin     : Perempuan                                        ¦
+¦ Alamat            : Jl. Anggrek No. 55 RT 014/RW 006                 ¦
+¦ Agama             : Islam                                            ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Chef                                             ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374030303010015                                 ¦
+¦ Nama              : Oscar Lawalata                                   ¦
+¦ Tempat/Tgl Lahir  : Semarang, 15-03-2001                             ¦
+¦ Jenis Kelamin     : Laki-laki                                        ¦
+¦ Alamat            : Jl. Flamboyan No. 33 RT 015/RW 008               ¦
+¦ Agama             : Katolik                                          ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Fashion Designer                                 ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374040404950016                                 ¦
+¦ Nama              : Prilly Latuconsina                               ¦
+¦ Tempat/Tgl Lahir  : Surabaya, 16-04-1995                             ¦
+¦ Jenis Kelamin     : Perempuan                                        ¦
+¦ Alamat            : Jl. Kenari No. 27 RT 016/RW 001                  ¦
+¦ Agama             : Islam                                            ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Artis                                            ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374050505960017                                 ¦
+¦ Nama              : Qomar Zaman                                      ¦
+¦ Tempat/Tgl Lahir  : Yogyakarta, 17-05-1996                           ¦
+¦ Jenis Kelamin     : Laki-laki                                        ¦
+¦ Alamat            : Jl. Sakura No. 19 RT 017/RW 007                  ¦
+¦ Agama             : Islam                                            ¦
+¦ Status Perkawinan : Kawin                                            ¦
+¦ Pekerjaan         : Pilot                                            ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374060606970018                                 ¦
+¦ Nama              : Rina Nose                                        ¦
+¦ Tempat/Tgl Lahir  : Medan, 18-06-1997                                ¦
+¦ Jenis Kelamin     : Perempuan                                        ¦
+¦ Alamat            : Jl. Dahlia No. 42 RT 018/RW 005                  ¦
+¦ Agama             : Islam                                            ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Komedian                                         ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374070707980019                                 ¦
+¦ Nama              : Samuel Zylgwyn                                   ¦
+¦ Tempat/Tgl Lahir  : Malang, 19-07-1998                               ¦
+¦ Jenis Kelamin     : Laki-laki                                        ¦
+¦ Alamat            : Jl. Tulip No. 36 RT 019/RW 003                   ¦
+¦ Agama             : Kristen                                          ¦
+¦ Status Perkawinan : Belum Kawin                                      ¦
+¦ Pekerjaan         : Aktor                                            ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
++-----------------------------------------------------------------------+
+¦                     REPUBLIK INDONESIA                                ¦
+¦                     KARTU TANDA PENDUDUK                              ¦
+¦-----------------------------------------------------------------------¦
+¦ NIK               : 3374080808990020                                 ¦
+¦ Nama              : Tasya Kamila                                     ¦
+¦ Tempat/Tgl Lahir  : Palembang, 20-08-1999                            ¦
+¦ Jenis Kelamin     : Perempuan                                        ¦
+¦ Alamat            : Jl. Lily No. 14 RT 020/RW 002                    ¦
+¦ Agama             : Islam                                            ¦
+¦ Status Perkawinan : Kawin                                            ¦
+¦ Pekerjaan         : Penyanyi                                         ¦
+¦ Kewarganegaraan   : WNI                                              ¦
++-----------------------------------------------------------------------+
+
