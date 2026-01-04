@@ -1,0 +1,420 @@
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374010101950001
+Nama               : BUDI SANTOSO
+Tempat/Tgl Lahir   : JAKARTA, 01-01-1995
+Jenis Kelamin      : LAKI-LAKI
+Alamat             : JL. MERDEKA NO. 10
+    RT/RW          : 001/005
+    Kel/Desa       : MENTENG
+    Kecamatan      : MENTENG UTARA
+Agama              : ISLAM
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : KARYAWAN SWASTA
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374020202960002
+Nama               : SITI NURHALIZA
+Tempat/Tgl Lahir   : BANDUNG, 02-02-1996
+Jenis Kelamin      : PEREMPUAN
+Alamat             : JL. SUDIRMAN NO. 25
+    RT/RW          : 002/003
+    Kel/Desa       : SUDIRMAN
+    Kecamatan      : SUDIRMAN
+Agama              : ISLAM
+Status Perkawinan  : KAWIN
+Pekerjaan          : WIRASWASTA
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374030303970003
+Nama               : AHMAD RIZKI
+Tempat/Tgl Lahir   : SEMARANG, 03-03-1997
+Jenis Kelamin      : LAKI-LAKI
+Alamat             : JL. GATOT SUBROTO NO. 15 
+    RT/RW          : 003/004
+    Kel/Desa       : SIDOMUKTI
+    Kecamatan      : SIDOMUKTI UTARA
+Agama              : ISLAM
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : MAHASISWA
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374040404980004
+Nama               : DEWI LESTARI
+Tempat/Tgl Lahir   : SURABAYA, 04-04-1998
+Jenis Kelamin      : PEREMPUAN
+Alamat             : JL. AHMAD YANI NO. 30
+    RT/RW          : 004/002
+    Kel/Desa       : AHMAD YANI
+    Kecamatan      : SURABAYA SELATAN
+Agama              : KRISTEN
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : PEGAWAI NEGERI
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374050505990005
+Nama               : EKO PRASETYO
+Tempat/Tgl Lahir   : YOGYAKARTA, 05-05-1999
+Jenis Kelamin      : LAKI-LAKI
+Alamat             : JL. DIPONEGORO NO. 45
+    RT/RW          : 005/006
+    Kel/Desa       : DIPONEGORO
+    Kecamatan      : YOGYAKARTA TENGAH
+Agama              : KATOLIK
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : DESAINER
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374060606000006
+Nama               : FITRI HANDAYANI
+Tempat/Tgl Lahir   : MEDAN, 06-06-2000
+Jenis Kelamin      : PEREMPUAN
+Alamat             : JL. PAHLAWAN NO. 20
+    RT/RW          : 006/001
+    Kel/Desa       : PAHLAWAN
+    Kecamatan      : MEDAN KOTA
+Agama              : ISLAM
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : GURU
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374070707010007
+Nama               : GILANG RAMADHAN
+Tempat/Tgl Lahir   : MALANG, 07-07-2001
+Jenis Kelamin      : LAKI-LAKI
+Alamat             : JL. VETERAN NO. 35
+    RT/RW          : 007/008
+    Kel/Desa       : VETERAN
+    Kecamatan      : LOWOKWARU
+Agama              : ISLAM
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : PROGRAMMER
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374080808020008
+Nama               : HANA KARTIKA
+Tempat/Tgl Lahir   : PALEMBANG, 08-08-2002
+Jenis Kelamin      : PEREMPUAN
+Alamat             : JL. PEMUDA NO. 50
+    RT/RW          : 008/007
+    Kel/Desa       : PEMUDA
+    Kecamatan      : ILIR TIMUR
+Agama              : BUDDHA
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : MARKETING
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374090909950009
+Nama               : IRFAN HAKIM
+Tempat/Tgl Lahir   : BOGOR, 09-09-1995
+Jenis Kelamin      : LAKI-LAKI
+Alamat             : JL. KENANGAN NO. 12
+    RT/RW          : 009/005
+    Kel/Desa       : KENANGAN
+    Kecamatan      : BOGOR TENGAH
+Agama              : ISLAM
+Status Perkawinan  : KAWIN
+Pekerjaan          : ARSITEK
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374101010960010
+Nama               : JASMINE PUTRI
+Tempat/Tgl Lahir   : BEKASI, 10-10-1996
+Jenis Kelamin      : PEREMPUAN
+Alamat             : JL. HARMONI NO. 22
+    RT/RW          : 010/003
+    Kel/Desa       : HARMONI
+    Kecamatan      : BEKASI BARAT
+Agama              : KRISTEN
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : DOKTER
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374111111970011
+Nama               : KEVIN ANANDA
+Tempat/Tgl Lahir   : TANGERANG, 11-11-1997
+Jenis Kelamin      : LAKI-LAKI
+Alamat             : JL. CENDANA NO. 8
+    RT/RW          : 011/009
+    Kel/Desa       : CENDANA
+    Kecamatan      : TANGERANG KOTA
+Agama              : KATOLIK
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : PENGACARA
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374121212980012
+Nama               : LINDA WIJAYA
+Tempat/Tgl Lahir   : DEPOK, 12-12-1998
+Jenis Kelamin      : PEREMPUAN
+Alamat             : JL. MELATI NO. 18
+    RT/RW          : 012/002
+    Kel/Desa       : MELATI
+    Kecamatan      : BEJI
+Agama              : ISLAM
+Status Perkawinan  : KAWIN
+Pekerjaan          : AKUNTAN
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374010101990013
+Nama               : MARIO TEGUH
+Tempat/Tgl Lahir   : JAKARTA, 13-01-1999
+Jenis Kelamin      : LAKI-LAKI
+Alamat             : JL. MAWAR NO. 40
+    RT/RW          : 013/004
+    Kel/Desa       : MAWAR
+    Kecamatan      : CEMPAKA PUTIH
+Agama              : KRISTEN
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : KONSULTAN
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374020202000014
+Nama               : NINA SEPTIANI
+Tempat/Tgl Lahir   : BANDUNG, 14-02-2000
+Jenis Kelamin      : PEREMPUAN
+Alamat             : JL. ANGGREK NO. 55
+    RT/RW          : 014/006
+    Kel/Desa       : ANGGREK
+    Kecamatan      : COBLONG
+Agama              : ISLAM
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : CHEF
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374030303010015
+Nama               : OSCAR LAWALATA
+Tempat/Tgl Lahir   : SEMARANG, 15-03-2001
+Jenis Kelamin      : LAKI-LAKI
+Alamat             : JL. FLAMBOYAN NO. 33
+    RT/RW          : 015/008
+    Kel/Desa       : FLAMBOYAN
+    Kecamatan      : BANYUMANIK
+Agama              : KATOLIK
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : FASHION DESIGNER
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374040404950016
+Nama               : PRILLY LATUCONSINA
+Tempat/Tgl Lahir   : SURABAYA, 16-04-1995
+Jenis Kelamin      : PEREMPUAN
+Alamat             : JL. KENARI NO. 27
+    RT/RW          : 016/001
+    Kel/Desa       : KENARI
+    Kecamatan      : WONOKROMO
+Agama              : ISLAM
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : ARTIS
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374050505960017
+Nama               : QOMAR ZAMAN
+Tempat/Tgl Lahir   : YOGYAKARTA, 17-05-1996
+Jenis Kelamin      : LAKI-LAKI
+Alamat             :  JL. SAKURA NO. 19
+    RT/RW          : 017/007
+    Kel/Desa       : SAKURA
+    Kecamatan      : UMBULHARJO
+Agama              : ISLAM
+Status Perkawinan  : KAWIN
+Pekerjaan          : PILOT
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374060606970018
+Nama               : RINA NOSE
+Tempat/Tgl Lahir   : MEDAN, 18-06-1997
+Jenis Kelamin      : PEREMPUAN
+Alamat             : JL. DAHLIA NO. 42
+    RT/RW          : 018/005
+    Kel/Desa       : DAHLIA
+    Kecamatan      : MEDAN BARU
+Agama              : ISLAM
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : KOMEDIAN
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374070707980019
+Nama               : SAMUEL ZYLGWYN
+Tempat/Tgl Lahir   : MALANG, 19-07-1998
+Jenis Kelamin      : LAKI-LAKI
+Alamat             : JL. TULIP NO. 36
+    RT/RW          : 019/003
+    Kel/Desa       : TULIP
+    Kecamatan      : KLOJEN
+Agama              : KRISTEN
+Status Perkawinan  : BELUM KAWIN
+Pekerjaan          : AKTOR
+Kewarganegaraan    : WNI
+
+================================================================================
+
+
+================================================================================
+                          REPUBLIK INDONESIA
+                        KARTU TANDA PENDUDUK (KTP)
+================================================================================
+
+NIK                : 3374080808990020
+Nama               : TASYA KAMILA
+Tempat/Tgl Lahir   : PALEMBANG, 20-08-1999
+Jenis Kelamin      : PEREMPUAN
+Alamat             : JL. LILY NO. 14
+    RT/RW          : 020/002
+    Kel/Desa       : LILY
+    Kecamatan      : ILIR BARAT
+Agama              : ISLAM
+Status Perkawinan  : KAWIN
+Pekerjaan          : PENYANYI
+Kewarganegaraan    : WNI
+
+================================================================================
+
